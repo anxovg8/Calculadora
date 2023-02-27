@@ -9,6 +9,7 @@ import java.util.Scanner;
 public class SimpliCalc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
         String entrada;
         do{
             System.out.println("Escoja una operación o pulse 0 para salir.");
